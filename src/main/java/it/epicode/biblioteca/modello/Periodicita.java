@@ -1,4 +1,9 @@
 package it.epicode.biblioteca.modello;
 
-public class Periodicita {
+
+
+public enum Periodicita {
+    SETTIMANALE,
+    MENSILE,
+    SEMESTRALE
 }
